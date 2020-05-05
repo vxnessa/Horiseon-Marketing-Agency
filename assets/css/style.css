@@ -76,7 +76,7 @@ p {
 }
 
 .benefits {
-    margin-right: 30px;
+    margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
@@ -173,17 +173,17 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h1 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h1 {
+.online-reputation-management h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h1 {
+.social-media-marketing h4 {
     margin-bottom: 20px;
     font-size: 36px;
 }
